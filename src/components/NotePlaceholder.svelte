@@ -4,7 +4,7 @@
 
 
 <div class="NotePlaceholder">
-    <button on:click>NUEVA NOTA</button>
+    <button on:click>NEW NOTE</button>
 </div>
 
 <style>

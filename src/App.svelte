@@ -152,7 +152,7 @@
 
 <main class={$darkmode? 'darkmode' : ''}>
 	<Header on:input={handleQuery}/>
-	<div class="count-notes">{count} notas</div>
+	<div class="count-notes">{count} notes</div>
 	<Dashboard 
 		bind:notes={copyNotes} 
 		on:click={handleNew} 
