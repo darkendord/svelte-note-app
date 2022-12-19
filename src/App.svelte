@@ -29,6 +29,7 @@
 			title: '',
 			text: '',
 			color: color
+			
 		};
 
 		const dataPost = new FormData();
